@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-austral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasniedermaier/bootstrap-austral.git"
+  },
+  "author": "Matias Niedermaier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasniedermaier/bootstrap-austral/issues"
+  },
+  "homepage": "https://github.com/matiasniedermaier/bootstrap-austral#readme"
+}
