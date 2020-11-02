@@ -1,0 +1,15 @@
+.info {
+    margin-bottom: 10px;
+}
+.jumbotron {
+    background-color: skyblue;
+}
+.col {
+    text-align: center;
+    margin-bottom: 10px;
+}
+footer {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: skyblue;
+}
