@@ -24,3 +24,9 @@ footer {
 .breadcrumb {
     margin-top: 15px;
 }
+.card-contacto {
+    margin-bottom: 10px;
+}
+.card-contacto h5 {
+    margin-top: 5px;
+}
