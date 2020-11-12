@@ -1,0 +1,38 @@
+$blue: #87ceeb;
+
+@mixin margenes($top, $bottom) {
+    margin-top: $top;
+    margin-bottom: $bottom;
+}
+
+.info {
+    @include margenes(30px, 30px)
+}
+.jumbotron {
+    background-color: $blue;
+    @include margenes(55px, 0);
+}
+.col {
+    text-align: center;
+    @include margenes(0, 10px);
+}
+.img-fluid {
+    width: 100%;
+}
+.card-hotel {
+    @include margenes(30px, 0);
+}
+footer {
+    @include margenes(20px, 0);
+    padding: 20px;
+    background-color: $blue;
+}
+.breadcrumb {
+    @include margenes(15px, 0);
+}
+.card-contacto {
+    @include margenes(0, 10px);
+}
+.card-contacto h5 {
+    @include margenes(5px, 0)
+}
